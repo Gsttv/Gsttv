@@ -1,6 +1,6 @@
 
 # Gustavo Morais
-Breve descrição sobre você.
+Estudante de Sistemas para internet apaixonado por java, procurando sempre aprender novas coisa e encontrar desafios.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gustvmorais?tab=skills)
